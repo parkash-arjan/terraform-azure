@@ -1,0 +1,1 @@
+This project conatins details on Terraform as IaaC for Azure platform
